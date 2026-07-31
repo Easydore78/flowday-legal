@@ -1,6 +1,6 @@
 # Politique de confidentialité — FlowDay
 
-**Dernière mise à jour : 30 juillet 2026**
+**Dernière mise à jour : 31 juillet 2026**
 
 ---
 
@@ -8,10 +8,10 @@
 
 FlowDay est développé et édité par :
 
-**Mathieu Galais**  
+**FlowDay**  
   
 France  
-Contact : mathieugalais@gmail.com
+Contact : flowday.app@outlook.com
 
 ---
 
@@ -43,13 +43,13 @@ FlowDay ne collecte **pas** :
 
 Les données sont utilisées exclusivement pour :
 
-| Finalité | Base légale |
-|----------|-------------|
-| Afficher et gérer le planning de l'utilisateur | Exécution du contrat (CGU) |
-| Sauvegarder les données sur Google Drive | Consentement explicite de l'utilisateur |
-| Synchroniser les activités avec Google Agenda | Consentement explicite de l'utilisateur |
-| Partager le calendrier FlowDay avec des tiers | Consentement explicite de l'utilisateur |
-| Envoyer des notifications et alarmes locales | Intérêt légitime / Consentement |
+|                    Finalité                    |               Base légale               |
+|------------------------------------------------|-----------------------------------------|
+| Afficher et gérer le planning de l'utilisateur | Exécution du contrat (CGU)              |
+| Sauvegarder les données sur Google Drive       | Consentement explicite de l'utilisateur |
+| Synchroniser les activités avec Google Agenda  | Consentement explicite de l'utilisateur |
+| Partager le calendrier FlowDay avec des tiers  | Consentement explicite de l'utilisateur |
+| Envoyer des notifications et alarmes locales   | Intérêt légitime / Consentement         |
 
 ---
 
@@ -91,7 +91,7 @@ Conformément au Règlement Général sur la Protection des Données (RGPD — R
 ### Comment exercer vos droits :
 - **Données locales** : désinstallez l'application
 - **Données Google Drive** : révoquez l'accès de FlowDay depuis [myaccount.google.com/permissions](https://myaccount.google.com/permissions)
-- **Contact** : mathieugalais@gmail.com — réponse sous 30 jours
+- **Contact** : flowday.app@outlook.com — réponse sous 30 jours
 
 Vous avez également le droit d'introduire une réclamation auprès de la **CNIL** (Commission Nationale de l'Informatique et des Libertés) : [https://www.cnil.fr](https://www.cnil.fr)
 
@@ -125,7 +125,7 @@ FlowDay utilise les notifications locales de votre appareil pour envoyer des rap
 
 ## 10. Mineurs
 
-FlowDay est conçu pour être utilisé par des mineurs sous la supervision d'un parent ou d'un tuteur légal. L'application ne collecte pas délibérément de données personnelles d'enfants de moins de 13 ans sans le consentement parental. Si vous êtes parent et pensez que votre enfant nous a fourni des données personnelles sans votre consentement, contactez-nous à mathieugalais@gmail.com.
+FlowDay est conçu pour être utilisé par des mineurs sous la supervision d'un parent ou d'un tuteur légal. L'application ne collecte pas délibérément de données personnelles d'enfants de moins de 13 ans sans le consentement parental. Si vous êtes parent et pensez que votre enfant nous a fourni des données personnelles sans votre consentement, contactez-nous à flowday.app@outlook.com.
 
 ---
 
@@ -138,8 +138,6 @@ En cas de modification substantielle de cette politique, les utilisateurs seront
 ## 12. Contact
 
 Pour toute question relative à cette politique de confidentialité :
-
-**Mathieu Galais**  
-Email : mathieugalais@gmail.com  
+  
+Email : flowday.app@outlook.com  
 Délai de réponse : 30 jours maximum
-
